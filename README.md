@@ -38,7 +38,11 @@ The wheels and bearings were both created by first designing a section view sket
 * The revolve tool was new, but very helpful.
 
 ### Assembly
+The assembly consisted of using mate connectors to put all the different parts together. Most connections were via fastened mates, besides the one between the axle and the bearings. Combined, 8 bearings were imported, 4 wheels, 2 trucks, 1 deck, 8 small screws, 8 small nuts, as well as 4 other nuts for the wheels and 2 for the king pin of the trucks.
 
 #### Images
 
 #### Reflection
+* At first, it was difficult to figure out the mate connectors again.
+* The k hotkey was helpful to clear the view (it hides all mate connectors).
+* The final assembly looks good, but without the bend in the deck, it looks pretty unrealistic.
