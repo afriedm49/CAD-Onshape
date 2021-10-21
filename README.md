@@ -7,6 +7,8 @@
 ## Skateboard
 The Skateboard is designed on Onshape by combining a deck, trucks, wheels, and bearings. It is then assembled all together.
 
+[Link to Onshape Document](https://cvilleschools.onshape.com/documents/43ac334ecc19ff8ab6669fec/w/b0ce2447437d1404e49dbab2/e/44c58274e30f4a2979bdd1af)
+
 ### Deck
 
 #### Description
@@ -53,7 +55,7 @@ The wheels and bearings were both created by first designing a section view sket
 The assembly consisted of using mate connectors to put all the different parts together. Most connections were via fastened mates, besides the one between the axle and the bearings. Combined, 8 bearings were imported, 4 wheels, 2 trucks, 1 deck, 8 small screws, 8 small nuts, as well as 4 other nuts for the wheels and 2 for the king pin of the trucks.
 
 #### Images
-<img src="Images/Skate_Assembly.png" alt="SkateAssembly" width="600" height="350"/>
+<img src="Images/Skate_Assembly.png" alt="SkateAssembly" width="700" height="350"/>
 
 #### Reflection
 * At first, it was difficult to figure out the mate connectors again.
