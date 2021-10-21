@@ -14,6 +14,8 @@ The Deck is designed by a rectangle and circles, and is extruded. Holes are poke
 
 #### Images
 
+<img src="Images/Skate_Deck.png" alt="SkateDeck" width="400" height="200"/>
+
 #### Reflection
 * The instructions for the deck taught me to use the hole tool
 * I learned about ways to use symmetry, and using the rectangle shape to outline spaces for other features.
@@ -27,6 +29,7 @@ The Bushing is a polyurethane ring to provide a shock support and bend to the bo
 The Truck hanger and baseplate are made of stainless steel.
 
 #### Images
+<img src="Images/Skate_Truck.png" alt="SkateTruck" width="400" height="200"/>
 
 #### Reflection
 * I learned how to add extrusions from different parts from the original sketch.
@@ -38,6 +41,7 @@ The Truck hanger and baseplate are made of stainless steel.
 The wheels and bearings were both created by first designing a section view sketch, and using a revolve feature to make it circular. The bearing is extruded as a separate part from the wheel.
 
 #### Images
+<img src="Images/Skate_Wheel.png" alt="SkateWheel" width="300" height="250"/>
 
 #### Reflection
 * This one was pretty simple, because of how easy the revolve tool is to use. 
@@ -49,6 +53,7 @@ The wheels and bearings were both created by first designing a section view sket
 The assembly consisted of using mate connectors to put all the different parts together. Most connections were via fastened mates, besides the one between the axle and the bearings. Combined, 8 bearings were imported, 4 wheels, 2 trucks, 1 deck, 8 small screws, 8 small nuts, as well as 4 other nuts for the wheels and 2 for the king pin of the trucks.
 
 #### Images
+<img src="Images/Skate_Assembly.png" alt="SkateAssembly" width="600" height="350"/>
 
 #### Reflection
 * At first, it was difficult to figure out the mate connectors again.
