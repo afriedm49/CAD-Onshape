@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Skateboard](#Skateboard)
+* [Duck](#Duck)
 
 ## Skateboard
 The Skateboard is designed on Onshape by combining a deck, trucks, wheels, and bearings. It is then assembled all together.
@@ -62,3 +63,8 @@ The assembly consisted of using mate connectors to put all the different parts t
 * At first, it was difficult to figure out the mate connectors again. The revolve connector allows rotation of the wheels like a real board, so it made sense to use it there, and the rest were fastened mates, allowing no movement.
 * The k hotkey was helpful to clear the view (it hides all mate connectors).
 
+## Duck
+
+### Single_Brick
+
+#### 
