@@ -67,4 +67,29 @@ The assembly consisted of using mate connectors to put all the different parts t
 
 ### Single_Brick
 
-#### 
+#### Description 
+
+#### Images
+
+#### Reflection
+
+### Configurations
+
+#### Description 
+
+#### Images
+
+#### Reflection
+
+### Duck_Assembly
+
+#### Description 
+I took 4 different configurations of 6 total blocks and assembled it into a Duck. The design is shown in the images below.
+
+#### Images
+
+
+#### Reflection
+* The process was simple after figuring out how to snap different pieces together. Remember that the mate connectors sometimes take a while to line up correctly, so it is helpful to zoom in, to get a closer look of where it connects. 
+* The design originally uses Yellow and Red, but I created a new color on the list called "Duck_Green", by messing around with the RGB values. This was to make it look more realistic, because the red didn't look like a duck. 
+* The center of mass was confusing at first, because I didn't see the purpose for it. It makes sense now, because the center of the object's mass is where the x values balance out on both sides, and the y values balance, for volume. This is helpful in showing where it could handle the most weight.
