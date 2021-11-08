@@ -87,7 +87,7 @@ The assembly consisted of using mate connectors to put all the different parts t
 I took 4 different configurations of 6 total blocks and assembled it into a Duck. The design is shown in the images below.
 
 #### Images
-
+<img src="Images/Duck_Assembly.png" alt="DuckAssembly" width="500" height="350"/>
 
 #### Reflection
 * The process was simple after figuring out how to snap different pieces together. Remember that the mate connectors sometimes take a while to line up correctly, so it is helpful to zoom in, to get a closer look of where it connects. 
