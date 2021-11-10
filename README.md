@@ -82,6 +82,7 @@ I took 4 different configurations of 6 total blocks and assembled it into a Duck
 I made a base sketch of a multi-tool to measure cm, inches, angles, and use as a #4-40 wrench. This was extruded, and then formatted as a DXF drawing file. After labeling Cm, Inches, and my name, I laser cut it on acrylic.
 
 #### Images
+<img src="Images/Multi-tool.jpg" alt="SkateDeck" width="300" height="350"/> <img src="Images/Multi-tool_Drawing.png" alt="SkateDeck" width="300" height="300"/>
 
 #### Reflection
 * Dxf files cannot be opened on window computers without the laser cutting program installed.
