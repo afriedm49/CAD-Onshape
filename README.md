@@ -65,24 +65,6 @@ The assembly consisted of using mate connectors to put all the different parts t
 
 ## Duck
 
-### Single_Brick
-
-#### Description 
-
-#### Images
-
-#### Reflection
-
-### Configurations
-
-#### Description 
-
-#### Images
-
-#### Reflection
-
-### Duck_Assembly
-
 #### Description 
 I took 4 different configurations of 6 total blocks and assembled it into a Duck. The design is shown in the images below.
 
