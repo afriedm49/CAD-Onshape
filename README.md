@@ -75,3 +75,15 @@ I took 4 different configurations of 6 total blocks and assembled it into a Duck
 * The process was simple after figuring out how to snap different pieces together. Remember that the mate connectors sometimes take a while to line up correctly, so it is helpful to zoom in, to get a closer look of where it connects. 
 * The design originally uses Yellow and Red, but I created a new color on the list called "Duck_Green", by messing around with the RGB values. This was to make it look more realistic, because the red didn't look like a duck. 
 * The center of mass was confusing at first, because I didn't see the purpose for it. It makes sense now, because the center of the object's mass is where the x values balance out on both sides, and the y values balance, for volume. This is helpful in showing where it could handle the most weight.
+
+## Multi-Tool
+
+#### Description
+I made a base sketch of a multi-tool to measure cm, inches, angles, and use as a #4-40 wrench. This was extruded, and then formatted as a DXF drawing file. After labeling Cm, Inches, and my name, I laser cut it on acrylic.
+
+#### Images
+
+#### Reflection
+* Dxf files cannot be opened on window computers without the laser cutting program installed.
+* Linear patterns for quickly copying holes were helpful, but it is important that you have a sketch for ONLY the part that you want to pattern. It doesn't work to patter a part of a sketch.
+* The easiest way to create a sketch is to draw the basic outline, then add relations, and then add dimensions.
